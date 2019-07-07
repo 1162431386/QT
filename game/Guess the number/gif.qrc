@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file alias="start">-3f6fa3b806d55b44.gif</file>
+        <file>-48482abb2408b8fd.gif</file>
+        <file>85ccde71gw1fasliemtifg208c05phdt.gif</file>
+    </qresource>
+</RCC>
