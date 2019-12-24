@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/sound/chessone.wav</file>
+        <file>res/sound/lose.wav</file>
+        <file>qipan.jpg</file>
+        <file>d73066e8ff70539442867b598d09b982.gif</file>
+        <file>beijing.jpg</file>
+        <file>res/sound/victory.wav</file>
+        <file>ico.png</file>
+        <file>vectory.jpg</file>
+        <file>verico.jpg</file>
+    </qresource>
+</RCC>

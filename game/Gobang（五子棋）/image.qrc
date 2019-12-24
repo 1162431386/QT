@@ -1,9 +1,0 @@
-<RCC>
-    <qresource prefix="/new/prefix1">
-        <file>5c8a2a67967b8.jpg</file>
-        <file>res/sound/chessone.wav</file>
-        <file>res/sound/lose.wav</file>
-        <file>res/sound/win.wav</file>
-        <file>res/sound/f-18-6-22-14.wav</file>
-    </qresource>
-</RCC>
